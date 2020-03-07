@@ -1,0 +1,22 @@
+ /* 
+  file format:
+  username:kp003
+  pawan 111 khadkpawan@gmail.com
+  khadka 222 pawan@gmail.com
+
+  usernmae:pk003
+
+*/
+
+
+std::ifstream datafromfile;
+datafromfile.open("Minidatabase.txt");
+while(!datafromfile.eof())
+{
+  infile>>username;
+   
+
+
+
+
+}
